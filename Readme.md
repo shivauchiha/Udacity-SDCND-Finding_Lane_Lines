@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 [image4]: ./Results_images/ROI_crop.jpg "Cropping ROI"
 [image5]: ./Results_images/canny_edges.jpg "canny_detection"
 [image6]: ./Results_images/output.jpg "Final"
-[image6]: ./Results_images/grayscale.jpg "Grey"
+[image7]: ./Results_images/grayscale.jpg "Grey"
 
 ---
 
@@ -34,7 +34,7 @@ The Pipeline consists of 7 steps for lane detection
 **Process I**
 First the image is converted into grey scale so it cab processed for application in Range thresholding 
 
-![alt text][image6]
+![alt text][image7]
 
 **Process II**
 
