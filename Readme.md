@@ -31,7 +31,7 @@ The goals / steps of this project are the following:
 The Pipeline consists of 7 steps for lane detection
 
 **Process I**
-First the image is converted into grey scale so it cab processed for application in Range thresholding 
+First the image is converted into grey scale so it can be processed for application in Range thresholding 
 
 ![alt text][image7]
 
